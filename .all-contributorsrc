@@ -1,0 +1,81 @@
+{
+  "projectName": "tailwindui-crawler",
+  "projectOwner": "kiliman",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "avatarBlockTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>&size=100\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "contributors": [
+    {
+      "login": "kiliman",
+      "name": "Kiliman",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47168?v=4",
+      "profile": "https://github.com/kiliman",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sonovice",
+      "name": "Simon Waloschek",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8217108?v=4",
+      "profile": "http://www.cemfi.de",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nawok",
+      "name": "Pavel Fomchenkov",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/159773?v=4",
+      "profile": "https://github.com/nawok",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "RobinMalfait",
+      "name": "Robin Malfait",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1834413?v=4",
+      "profile": "https://robinmalfait.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "m1guelpf",
+      "name": "Miguel Piedrafita",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23558090?v=4",
+      "profile": "https://miguelpiedrafita.com",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "vladdu",
+      "name": "Vlad Dumitrescu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9707?v=4",
+      "profile": "https://github.com/vladdu",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "vesper8",
+      "name": "C-Bass",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/816028?v=4",
+      "profile": "https://github.com/vesper8",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
